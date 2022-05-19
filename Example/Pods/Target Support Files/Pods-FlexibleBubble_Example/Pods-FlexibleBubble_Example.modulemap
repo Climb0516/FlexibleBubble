@@ -1,0 +1,6 @@
+framework module Pods_FlexibleBubble_Example {
+  umbrella header "Pods-FlexibleBubble_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

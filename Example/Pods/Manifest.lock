@@ -1,0 +1,23 @@
+PODS:
+  - FlexibleBubble (0.1.0):
+    - Masonry
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - FlexibleBubble (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+
+EXTERNAL SOURCES:
+  FlexibleBubble:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FlexibleBubble: 07be2064b500a2b52b356220dc0371c727fae98a
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+
+PODFILE CHECKSUM: 8f72824eed147b3d215962b15cd181b28078e0f7
+
+COCOAPODS: 1.11.3

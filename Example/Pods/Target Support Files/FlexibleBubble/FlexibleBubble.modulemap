@@ -1,0 +1,6 @@
+framework module FlexibleBubble {
+  umbrella header "FlexibleBubble-umbrella.h"
+
+  export *
+  module * { export * }
+}

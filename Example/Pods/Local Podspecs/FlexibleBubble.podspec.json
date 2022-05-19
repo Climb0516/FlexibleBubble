@@ -1,0 +1,27 @@
+{
+  "name": "FlexibleBubble",
+  "version": "0.1.0",
+  "summary": "A short description of FlexibleBubble.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/王攀登/FlexibleBubble",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "王攀登": "pandeng.wang@longbridge.sg"
+  },
+  "source": {
+    "git": "https://github.com/王攀登/FlexibleBubble.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "FlexibleBubble/Classes/**/*",
+  "dependencies": {
+    "Masonry": [
+
+    ]
+  }
+}

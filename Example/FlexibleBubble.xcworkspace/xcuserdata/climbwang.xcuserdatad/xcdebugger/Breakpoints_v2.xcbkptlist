@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2B97588A-6170-4D11-8194-3D972291431D"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91E3CB0A-0B5B-4E05-AE9F-2FC07B2F5CB6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../FlexibleBubble/Classes/CLFlexibleBubbleArrow.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "-initWithFrame:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "91E3CB0A-0B5B-4E05-AE9F-2FC07B2F5CB6 - 66b610be6b72fe63"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[CLFlexibleBubbleTextView init]"
+                  moduleName = "FlexibleBubble"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/climbwang/Desktop/FlexibleBubble/FlexibleBubble/Classes/CLFlexibleBubbleArrow.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "91E3CB0A-0B5B-4E05-AE9F-2FC07B2F5CB6 - 13cf60b776caf8b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[CLFlexibleBubbleTextView initWithFrame:]"
+                  moduleName = "FlexibleBubble"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/climbwang/Desktop/FlexibleBubble/FlexibleBubble/Classes/CLFlexibleBubbleArrow.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
