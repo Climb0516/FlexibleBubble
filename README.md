@@ -126,6 +126,7 @@ FlexibleBubble *bubble = [[FlexibleBubble alloc] initWithBubbleConfig:config];
 详细用法可去demo里查看。
 
 Demo截图：
+
 [![OHLFmt.jpg](https://s1.ax1x.com/2022/05/19/OHLFmt.jpg)](https://imgtu.com/i/OHLFmt)
 
 
@@ -143,7 +144,8 @@ pod 'FlexibleBubble'
 
 ## Author
 
-王攀登, pandeng.wang@longbridge.sg
+Climb
+wangpandeng1223@163.com
 
 ## License
 
